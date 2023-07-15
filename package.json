@@ -1,5 +1,5 @@
 {
-  "name": "Online Learning Portal",
+  "name": "online-learning-portal",
   "description": "This is a JSON server with JSON server auth for Online Learning Portal",
   "version": "1.0.0",
   "main": "index.js",
